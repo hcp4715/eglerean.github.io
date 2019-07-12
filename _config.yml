@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrico Glerean (PhD D.Tech.)"
+title                    : "Chuan-Peng Hu (PhD)"
 title_separator          : "-"
-name                     : &name "Enrico Glerean"
-description              : &description "Brain, Networks, Behaviour"
-url                      : https://eglerean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chuan-Peng Hu"
+description              : &description "Brain, Self, Open Science"
+url                      : https://chuan-peng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "eglerean/eglerean.github.io"
+repository               : "hcp4715/Chuan-Peng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : eglerean
+  username               : hcp4715
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enrico Glerean<br>(PhD D.Tech.)"
+  name             : "Chuan-Peng Hu<br>(PhD D.Tech.)"
   avatar           : "EG_profile.jpg"
-  bio              : "Postdoctoral scientist at University of Turku. Data manager at Aalto University. Neuroscience, networks, quantified behaviour, signal processing, web technologies, open data, social cognition, emotions."
-  location         : "Finland"
+  bio              : "Postdoctoral scientist at University Medical Center Mainz. Ambassador of Center for Open Science. Amateur climber."
+  location         : "Germany"
   employer         : 
-  googlescholar    : "https://scholar.google.fi/citations?user=sD90SmMAAAAJ&hl=en"
-  email            : "enrico.glerean@utu.fi"
+  googlescholar    : "https://scholar.google.com/citations?user=pp-6MkUAAAAJ&hl=en"
+  email            : "hcp4715@gamil.com"
   uri              : "https://eglerean.wordpress.com/"
   bitbucket        :
   codepen          :
@@ -92,13 +92,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eglerean"
+  github           : "hcp4715"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "http://fi.linkedin.com/in/enricoglerean"
-  orcid            : "http://orcid.org/0000-0003-0624-675X"
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0002-7503-5131"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  publons          : "https://publons.com/author/732978/enrico-glerean#"
+  publons          : "https://publons.com/researcher/1617517/chuan-peng-hu/"
 
 
 # Reading Files
